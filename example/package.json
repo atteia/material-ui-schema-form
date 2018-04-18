@@ -15,7 +15,7 @@
     "material-ui": "1.0.0-beta.22",
     "material-ui-icons": "^1.0.0-beta.17",
     "material-ui-schema-form": "file:../",
-    "moment": "2.19.1",
+    "moment": "2.22.1",
     "path": "0.12.7",
     "react": "16.0.0",
     "react-codemirror2": "^3.0.7",
